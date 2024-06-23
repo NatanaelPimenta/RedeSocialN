@@ -1,10 +1,10 @@
-## RedeSocialESN
+# RedeSocialESN
 
 
 
 ## BANCO DE DADOS:
 
-# PostgreSQL
+### PostgreSQL
 
 Banco de Dados DBRS_USER:
 O DBRS_USER é fundamental para o armazenamento e gerenciamento dos dados relacionados aos usuários da nossa rede social. Este banco de dados contém duas tabelas principais:
